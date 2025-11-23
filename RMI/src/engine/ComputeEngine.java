@@ -6,7 +6,7 @@ import java.rmi.server.UnicastRemoteObject;
 import compute.Compute;
 import compute.Task;
 
-public class ComputeEngine implements Compute {
+public class ComputeEngine implements Compute{
 
     public ComputeEngine() {
         super();
